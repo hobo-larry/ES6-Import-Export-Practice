@@ -1,6 +1,7 @@
 import React from "react";
 import ReactDOM from "react-dom";
 import add, { multiply, subtract, divide } from "./calculator";
+// import * as calculator from "./calculator"  can use this aswell
 
 //Import the add, multiply, subtract and divide functions
 //from the calculator.js file.
